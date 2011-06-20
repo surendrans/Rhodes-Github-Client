@@ -1,0 +1,27 @@
+<div class="pageTitle">
+  <h1>Edit <%= @repoinformation.name %></h1>
+</div>
+
+<div class="toolbar">
+  <div class="leftItem backButton">
+    <a href="<%= url_for :action => :show, :id => @repoinformation.object %>">Cancel</a>
+  </div>
+  <div class="rightItem regularButton">
+    <a class="button" href="<%= url_for :action => :delete, :id => @repoinformation.object %>">Delete</a>
+  </div>
+</div>
+
+<div class="content">
+  <form method="POST" action="<%= url_for :action => :update %>">
+    <input type="hidden" name="id" value="<%= @repoinformation.object %>"/>
+    <ul>
+      
+          <li>
+            <label for="repoinformation[name]" class="fieldLabel">Name</label>
+            <input type="text" name="repoinformation[name]" value="<%= @repoinformation.name %>" <%= placeholder( "Name" ) %> />
+          </li>
+      
+    </ul>
+    <input type="submit" class="standardButton" value="Update"/>
+  </form>
+</div>

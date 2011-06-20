@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<manifest xmlns:android='http://schemas.android.com/apk/res/android' package='com.rhomobile.newgithubclient' android:installLocation='auto' android:versionCode='10000' android:versionName='1.0'>
+  <application android:name='com.rhomobile.rhodes.RhodesApplication' android:icon='@drawable/icon' android:label='@string/app_name' android:debuggable='true'>
+    <!-- Main activity -->
+    <activity android:name='com.rhomobile.rhodes.RhodesActivity' android:label='@string/app_name' android:configChanges='orientation|keyboardHidden' android:launchMode='singleTask'>
+      <intent-filter>
+        <action android:name='android.intent.action.MAIN'/>
+        <category android:name='android.intent.category.LAUNCHER'/>
+      </intent-filter>
+      <intent-filter>
+        <action android:name='android.intent.action.VIEW'/>
+        <category android:name='android.intent.category.DEFAULT'/>
+        <category android:name='android.intent.category.BROWSABLE'/>
+        <data android:scheme='http' android:host='com.rhomobile.newgithubclient'/>
+      </intent-filter>
+    </activity>
+    <activity android:name='com.rhomobile.rhodes.alert.PopupActivity' android:theme='@style/PopupTheme'/>
+    <activity android:name='com.rhomobile.rhodes.camera.FileList'/>
+    <activity android:name='com.rhomobile.rhodes.camera.ImageCapture' android:screenOrientation='landscape'/>
+    <activity android:name='com.rhomobile.rhodes.signature.ImageCapture'/>
+    <activity android:name='com.rhomobile.rhodes.datetime.DateTimePickerScreen'/>
+    <activity android:name='com.rhomobile.rhodes.mapview.MapView'/>
+    <activity android:name='com.rhomobile.rhodes.mapview.GoogleMapView'/>
+    <activity android:name='com.rhomobile.rhodes.bluetooth.RhoBluetoothDeviceListActivity'/>
+    <service android:name='com.rhomobile.rhodes.RhodesService'/>
+    <provider android:name='com.rhomobile.rhodes.LocalFileProvider' android:authorities='com.rhomobile.newgithubclient' android:grantUriPermissions='false'>
+      <grant-uri-permission android:pathPrefix='/rhodes/apps/'/>
+    </provider>
+  </application>
+  <uses-sdk android:minSdkVersion='4'/>
+  <uses-permission android:name='android.permission.ACCESS_NETWORK_STATE'/>
+  <uses-permission android:name='android.permission.INTERNET'/>
+  <uses-permission android:name='android.permission.PERSISTENT_ACTIVITY'/>
+  <uses-permission android:name='android.permission.WAKE_LOCK'/>
+</manifest>

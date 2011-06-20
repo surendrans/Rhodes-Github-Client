@@ -1,0 +1,18 @@
+<div class="pageTitle">
+  <h1>My Repos</h1>
+</div>
+
+<div class="toolbar">
+  <div class="leftItem backButton">
+    <a class="cancel" href="<%= url_for :controller => :User, :action => :listing %>">Back</a>
+  </div>
+</div>
+<div class='content'>
+  <ul>
+  <% get_result.each do | repo | %>
+  <li>
+    <a><%= repo["name"] %> </a>
+  </li>
+    <% end%>
+</ul>
+</div>

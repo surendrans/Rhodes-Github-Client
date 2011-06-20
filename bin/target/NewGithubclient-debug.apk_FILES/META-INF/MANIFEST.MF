@@ -1,0 +1,660 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/info.png
+SHA1-Digest: sEozaBMWkHSh41qfULEwQpnn6IY=
+
+Name: assets/apps/app/User/show_erb.iseq
+SHA1-Digest: ph+QolJNOjOpuJ3XDkjQwufr6aQ=
+
+Name: assets/lib/rational18.iseq
+SHA1-Digest: TCr+LQ/1xllOGLmjA6QKI6B4R9w=
+
+Name: assets/apps/public/images/thumb.png
+SHA1-Digest: jfGs0zXb7nIe/wi13OfNQEDQhDM=
+
+Name: assets/apps/app_manifest.txt
+SHA1-Digest: qIQ+oWBPFaqBAmVlgk1ldIfS/HY=
+
+Name: assets/apps/public/images/iphone/jqtouch/toolButton.png
+SHA1-Digest: cgbBAvUZsj3Jo2sPV1EwbjsV3ss=
+
+Name: res/menu/options.xml
+SHA1-Digest: H+pTBpWfcFau0IwlhEpHTGgmmcc=
+
+Name: assets/lib/res/home_btn.wp.png
+SHA1-Digest: 2i++aFUSuHn4Y9e7/Obgym3zsKc=
+
+Name: assets/apps/public/images/iphone/select.png
+SHA1-Digest: dPzP/tv97FXuGM7dsv0Q6zRRZhQ=
+
+Name: res/drawable/refresh.png
+SHA1-Digest: KdvgWQl6767dmKZkRNR8474nicU=
+
+Name: assets/lib/rhofsconnector.iseq
+SHA1-Digest: OAkKXG0fLeeaQLMCqILmE75jC5Y=
+
+Name: res/layout/logoptions.xml
+SHA1-Digest: 9kIZqhPVhRj1KETcIu1brhaxo2Y=
+
+Name: res/drawable/signature_cancel.png
+SHA1-Digest: G6mxzCtqcGNvx22heZay+uhorWE=
+
+Name: assets/apps/public/images/backButton.png
+SHA1-Digest: DURF+IoqMN27D60L/Pyx82a5Egk=
+
+Name: assets/apps/public/images/iphone/jqtouch/listArrowSel.png
+SHA1-Digest: 4bEDjm1yt+RhJUFM4eSnlv5k4EQ=
+
+Name: assets/lib/res/callout.wp.png
+SHA1-Digest: EBq0QZ5ZODCYtGdqNfILh6blFfk=
+
+Name: assets/lib/rho/mapview.iseq
+SHA1-Digest: qx/x/Iho0yzl5TmVH5GND4z7BsU=
+
+Name: assets/lib/rholang/rhomsg_de.iseq
+SHA1-Digest: FUCUTdx8iTi+Fp5FyHuYx0y9IeY=
+
+Name: assets/apps/public/images/android/btn_check_on.png
+SHA1-Digest: 6xgrevhxalv/1vfT3Vl8yX9IWhE=
+
+Name: assets/lib/rholang/lang_en.iseq
+SHA1-Digest: krFMYajDN0HdlQxBhoEqEHrlhEo=
+
+Name: assets/lib/res/forward_btn.wp.png
+SHA1-Digest: DQd1Ij/gbC8XiGhrbAmFRKVQ9Hs=
+
+Name: assets/lib/singleton.iseq
+SHA1-Digest: xdZJbdUzAKo2Va+La/cGRSfu7p4=
+
+Name: assets/apps/app/RepoInformation/repo_information.iseq
+SHA1-Digest: uhVzZfnGF20QA9ONgnA8O9GUwvk=
+
+Name: assets/apps/app/UserFollows/following_erb.iseq
+SHA1-Digest: dU9Here/QmtZE8nBWdNS0NXLEIE=
+
+Name: assets/apps/public/images/listArrow.png
+SHA1-Digest: Afix0+8diZEtWTna6p83oCLTeQ4=
+
+Name: res/layout/status_bar_ongoing_event_progress_bar.xml
+SHA1-Digest: L3amUkaZeh1VJsxTneJuMNNOuUg=
+
+Name: res/drawable/esri.png
+SHA1-Digest: rMz6ifwhqGldx6IhJ/NwpYvyJvc=
+
+Name: assets/apps/public/images/iphone/jqtouch/listGroup.png
+SHA1-Digest: soDEnTmU2S+AdV2KFPflvc3/C1A=
+
+Name: assets/apps/public/images/toggle.png
+SHA1-Digest: n0fOaV14DeP1QGDCOHRqcwQRNT0=
+
+Name: assets/apps/app/User/login_erb.iseq
+SHA1-Digest: qnWnynpDXuuCVs52R2iAwX82b1U=
+
+Name: assets/apps/public/jqtouch/jquery.1.3.2.min.js
+SHA1-Digest: 5867Lk3K+KNJ/kt0QDS6qPKnqcM=
+
+Name: res/layout/bt_device_name.xml
+SHA1-Digest: k/jlLsECCpzPtvisXMQ8rW5qFKU=
+
+Name: assets/apps/public/images/toolbar.png
+SHA1-Digest: Vq0UvyNpMPDamG5LTn3D16jpU9k=
+
+Name: assets/db/syncdb.schema
+SHA1-Digest: ED6fORp0QnpCdt+OY6ejcskmHzw=
+
+Name: assets/apps/public/images/iphone/jqtouch/blueButton.png
+SHA1-Digest: W4IJBu27h5NUkHui0Qd9IPomV2Q=
+
+Name: assets/lib/rho/rhomsg.iseq
+SHA1-Digest: mJYmG+gnAC9jW/HqPVnFhhHdJPw=
+
+Name: assets/apps/public/images/android/btn_check_off.png
+SHA1-Digest: X23pdmAQoNl1stYOVOmi1iRAWlI=
+
+Name: assets/apps/rhoconfig.txt
+SHA1-Digest: cwgxPUqPFrE/SjRyWwyqoCr6dU0=
+
+Name: assets/apps/public/images/iphone/jqtouch/grayButton.png
+SHA1-Digest: ixIzRu7aFPeUeKlSPAArncURrDo=
+
+Name: assets/lib/rholang/rhoerror_es.iseq
+SHA1-Digest: ooynohcxL70biswVp8MYy/mjL90=
+
+Name: assets/apps/app/RepoInformation/edit_erb.iseq
+SHA1-Digest: 45zd//rsc+JS5RoFEUBMTwzuj54=
+
+Name: assets/name
+SHA1-Digest: alszu82obgBzBEn27WfdxQiG3uQ=
+
+Name: assets/apps/public/images/listArrowDown.png
+SHA1-Digest: lwTHsKcMCxPIxIQ4RA0oHXtb2as=
+
+Name: assets/apps/public/images/iphone/jqtouch/chevron.png
+SHA1-Digest: Afix0+8diZEtWTna6p83oCLTeQ4=
+
+Name: assets/lib/res/refresh_btn.wp.png
+SHA1-Digest: nbeSAu5y1Ll+W4O0t3AfAOIOP2o=
+
+Name: assets/apps/public/images/android/ic_menu_more.png
+SHA1-Digest: QnpiZ5HOjuM1OhXjabHxq8fbqW8=
+
+Name: assets/apps/public/images/iphone/jqtouch/backButton.png
+SHA1-Digest: EOgn06+bVYS0SzjRZ8yJIV9Hl8I=
+
+Name: assets/apps/public/js/application.js
+SHA1-Digest: gCXjSIiwfs7DIbpQkaij/3LW82A=
+
+Name: assets/apps/rhoconfig.txt.timestamp
+SHA1-Digest: FceTEQx6YXNl/3YEclVebRe5uik=
+
+Name: assets/lib/rho/rhoutils.iseq
+SHA1-Digest: Ae9OK8IuoG1Nm2U2EonznikTTyk=
+
+Name: assets/apps/app/User/user_controller.iseq
+SHA1-Digest: ECgeSzQyWnRkXOcMd5ikx77uAuc=
+
+Name: assets/lib/rho/rhoviewhelpers.iseq
+SHA1-Digest: p0CwnLMRJ60g6tIqs8PcijLhBHs=
+
+Name: res/layout/signature.xml
+SHA1-Digest: qjCUPsDJ1w11znu0OdJ30eCsZrg=
+
+Name: assets/lib/rholang/rhomsg_it.iseq
+SHA1-Digest: rDbvGLhDmCil18HmaamAVZmVLs4=
+
+Name: assets/apps/public/images/iui-logo-touch-icon.png
+SHA1-Digest: D1sAgY7nWmOhfdVGGSTdLYanIC4=
+
+Name: res/drawable/home.png
+SHA1-Digest: O867/dRTR4iVhP6XaCHyryMpXxs=
+
+Name: assets/apps/public/images/iphone/switch.png
+SHA1-Digest: Z6insU4FB/3EPB73E0BASwVKdTs=
+
+Name: assets/lib/json/common.iseq
+SHA1-Digest: B33ExznAkCWALbPgeGg1VhKbZro=
+
+Name: res/drawable/alert_info.png
+SHA1-Digest: zw/qW/m5LeYUSWZO1tyOxd1+auU=
+
+Name: assets/lib/rhom/rhom_object.iseq
+SHA1-Digest: kkNYunp7FpviqQEwU4KrCrxCKMA=
+
+Name: assets/lib/rho/rhoapplication.iseq
+SHA1-Digest: OaLVFv9JQits2siA8OTqZAHFGKU=
+
+Name: assets/apps/app/application.iseq
+SHA1-Digest: 0Lre6xd86UfG0ACqv1J9BkVy5WM=
+
+Name: assets/apps/app/loading.png
+SHA1-Digest: QoxbTJGnM8EFdo2HsJSQSFhqlUQ=
+
+Name: res/layout/datetime.xml
+SHA1-Digest: m9FZVIJr9kJgWj6VrGISbrnfEWQ=
+
+Name: assets/lib/rho/rhoevent.iseq
+SHA1-Digest: Xf5TbFookxao7mzaD0YGmyzft+s=
+
+Name: assets/lib/time.iseq
+SHA1-Digest: 1qn/9ZMH3Ecm/l6z1VMmOHi2x20=
+
+Name: assets/lib/indifferent_access.iseq
+SHA1-Digest: evlEWt29XhFYha2tszgnKfvNoS4=
+
+Name: assets/apps/public/images/listArrowSel.png
+SHA1-Digest: 4bEDjm1yt+RhJUFM4eSnlv5k4EQ=
+
+Name: res/layout/directory_list.xml
+SHA1-Digest: D9Yjj+Yo0FOjxdJnyzMoEA0il74=
+
+Name: assets/apps/app/Settings/reset_erb.iseq
+SHA1-Digest: H0wQZdzIoFaVYfTne5PTBfitSKY=
+
+Name: res/drawable/options.png
+SHA1-Digest: +EPgstEJjmp3FkwcanUwB5PGEVs=
+
+Name: assets/apps/app/User/listing_erb.iseq
+SHA1-Digest: 3th5AZNpis+XNAQO1wVxwhZB8AA=
+
+Name: res/drawable/callout_link.png
+SHA1-Digest: L/dXR0CGZ2hb6PZvW4j1N5jccf0=
+
+Name: assets/lib/rholang/lang_es.iseq
+SHA1-Digest: jYZxLUM0b2PGl0yQcwF4K7wBUuM=
+
+Name: assets/lib/rholang/rhoerror_en.iseq
+SHA1-Digest: EoddV9iPehxXZo8IoZ/m6kWEAWo=
+
+Name: res/layout/file_row.xml
+SHA1-Digest: vatV2wlK18KRe9r/40Eh0XGMGlI=
+
+Name: res/drawable/signature_clear.png
+SHA1-Digest: dY6YSn/qLU0kmcj51rNS4dr1GsU=
+
+Name: assets/lib/rholang/rhomsg_es.iseq
+SHA1-Digest: Z3nUe/hwSonyTxkys+08yiEQWHs=
+
+Name: assets/apps/public/js/rhogeolocation-wm.js
+SHA1-Digest: 24TapLYoAiMmn0ZS5j7atOPYD2E=
+
+Name: assets/lib/ostruct.iseq
+SHA1-Digest: L/Y+Xx6sx0j3XYgq5n3TYmUHiMY=
+
+Name: assets/apps/public/jqtouch/changes.txt
+SHA1-Digest: syEEYpBU4aQFz/lur9Cia6Nzxl0=
+
+Name: assets/lib/rho/rhotabbar.iseq
+SHA1-Digest: wFg4zN1tYPyIPjmsatTHm6HTzBI=
+
+Name: assets/apps/app/UserRepos/watching_repos_erb.iseq
+SHA1-Digest: 8IJrXv5wC/7EubPTpBIsVecc/sc=
+
+Name: assets/apps/app/Settings/index_erb.iseq
+SHA1-Digest: 0yGAbzAau3toa+5kCq1U98xbW/k=
+
+Name: assets/lib/json.iseq
+SHA1-Digest: 86SqqeUi6vBDwP4o1tskHdPO4Yc=
+
+Name: assets/apps/app/User/show_error_erb.iseq
+SHA1-Digest: w5CM6IFPtKZMv1Qq3+mhEUBRFWo=
+
+Name: assets/apps/app/User/index_erb.iseq
+SHA1-Digest: b3Opf9JwVuIfHa7hKH960x8PcF8=
+
+Name: assets/apps/app/User/user.iseq
+SHA1-Digest: 7gEGbrwZeORauAezq9Sj+tMqzNQ=
+
+Name: assets/lib/rhom/rhom_db_adapter.iseq
+SHA1-Digest: 9bk7SgL+9FD7uBWGKWtJNylSJPk=
+
+Name: assets/apps/public/images/selection.png
+SHA1-Digest: tqiPPLLVGUnBQGLtP+04/47v2QU=
+
+Name: assets/apps/app/UserRepos/index_erb.iseq
+SHA1-Digest: L7WVQqiao9EeHp5/Dlb+5PngO/w=
+
+Name: assets/apps/app/UserRepos/show_result_erb.iseq
+SHA1-Digest: dU9Here/QmtZE8nBWdNS0NXLEIE=
+
+Name: assets/apps/public/js/rho.js
+SHA1-Digest: 6Njt1Bk6c4niCA3dME5zKivmcUQ=
+
+Name: assets/lib/rho/rho.iseq
+SHA1-Digest: z2l95oojiEQCBr9KvaVZLf62Yso=
+
+Name: assets/apps/app/helpers/browser_helper.iseq
+SHA1-Digest: JUsqc7TEPXlbp090xfvVcxrl4ps=
+
+Name: assets/apps/public/images/iphone/jqtouch/whiteButton.png
+SHA1-Digest: K0Jc3pAsDztdjnssbQrDgbYuOTc=
+
+Name: assets/apps/public/images/iphone/disclosure.png
+SHA1-Digest: fnGUUJKpP2KSqTU77Vow2mJqUhM=
+
+Name: assets/apps/public/images/iphone/jqtouch/on_off.png
+SHA1-Digest: Ubt7k4snEw+UUNqg/sLF/0Muwi4=
+
+Name: assets/lib/rholang/localization_simplified.iseq
+SHA1-Digest: 66fJ+SlxA3qUFYBsWE51JOz4xmw=
+
+Name: assets/apps/public/images/iphone/jqtouch/cancel.png
+SHA1-Digest: 6Opmi+zhw/Lq2kzD6zCRlt5TIBY=
+
+Name: assets/apps/app/RepoInformation/show_erb.iseq
+SHA1-Digest: DZX/Bb7PdssuSlZqeyEYnX8MNVQ=
+
+Name: assets/lib/rhom/rhom.iseq
+SHA1-Digest: Y5Dz5eqqcfb3sYSnXuF4wvt0b6I=
+
+Name: assets/lib/rho.iseq
+SHA1-Digest: u1VySuUpGQK69XEpZoipXb00tkU=
+
+Name: assets/apps/public/images/iphone/jqtouch/toggleOn.png
+SHA1-Digest: JaYt/+QNLqZrJMKdN3WD45WKaaw=
+
+Name: assets/apps/app/test/repo_information_spec.iseq
+SHA1-Digest: P+1z70Exx9cT9fdDwTtsZ8OVjMM=
+
+Name: assets/lib/res/esri.wp.png
+SHA1-Digest: Q2NV0ch23Ql+K2gAuR6qI021E/g=
+
+Name: assets/apps/public/images/toggleOn.png
+SHA1-Digest: JaYt/+QNLqZrJMKdN3WD45WKaaw=
+
+Name: assets/lib/json/version.iseq
+SHA1-Digest: 48uakqR6W8Q/JlqjN8OIvZYMehM=
+
+Name: assets/rho.dat
+SHA1-Digest: D0TWXuEDyexkRW/2NYbB8eCLXNg=
+
+Name: assets/apps/public/images/grayButton.png
+SHA1-Digest: ixIzRu7aFPeUeKlSPAArncURrDo=
+
+Name: assets/lib/rholang/rhomsg_en.iseq
+SHA1-Digest: 5AiI7/fw83BtC4LChhbnzwNCUsw=
+
+Name: res/drawable/marker.png
+SHA1-Digest: aEpDHjXpiJOJlHQxFH/bNfXc01Y=
+
+Name: assets/apps/app/UserRepos/forked_repos_erb.iseq
+SHA1-Digest: h04VgEl+Uy0X+vNSfJpzLpxOAtA=
+
+Name: assets/apps/public/images/android/btn_radio_on.png
+SHA1-Digest: +g9Ap1TXs6CrjTr1uaLGWWhAbBU=
+
+Name: assets/apps/public/jqtouch/jqtouch.transitions.js
+SHA1-Digest: 2FfnURnRB/U2n7t2RGPvly/Bb0w=
+
+Name: assets/apps/app/RepoInformation/contributors_erb.iseq
+SHA1-Digest: 3+19OUfuE+OUHgtqNPUCT7Yz9VE=
+
+Name: assets/lib/rhoappmanifest.iseq
+SHA1-Digest: UUp2mDK6JJaV5L1VhH7ZpvmR0tk=
+
+Name: assets/lib/rho/rhoevent_bb.iseq
+SHA1-Digest: vzEyD7/v/kASaus/AqPMqyGXMVY=
+
+Name: assets/lib/bsearch.iseq
+SHA1-Digest: bG/gw2CoZj5n9PzRXqjDBVpEKbY=
+
+Name: res/layout/dialog_activity.xml
+SHA1-Digest: ZqZZApcAOSOM2D4wo2OFL3JzB7o=
+
+Name: res/drawable/next.png
+SHA1-Digest: 3TUXkFGV8Ua2Wimcxa1zS9vBw4Q=
+
+Name: assets/apps/public/images/right_button.png
+SHA1-Digest: KQ0llTqK+fRTj/1U4JoHOrTvGqw=
+
+Name: assets/lib/rhom/rhom_source.iseq
+SHA1-Digest: KNMBvGSx3lW5U/RnRIgWDkHOXUM=
+
+Name: assets/apps/app/layout_erb.iseq
+SHA1-Digest: RmqCAuAXHwvsGeCMj54+HH1fgGc=
+
+Name: assets/apps/app/test/user_spec.iseq
+SHA1-Digest: kf+s8Sg9szSp7GIG9TktVRLVt/c=
+
+Name: assets/lib/res/callout_link.wp.png
+SHA1-Digest: DTV+d45/SAfIsAdr+ZVoy9QzEsY=
+
+Name: assets/apps/public/images/iphone/disclosure_detail.png
+SHA1-Digest: vyvxyMBksWa45CGZuj8zUVyKKns=
+
+Name: assets/apps/app/User/edit_erb.iseq
+SHA1-Digest: kfeSbDTk/qvirSJg5RU9SNYn/hY=
+
+Name: assets/apps/app/helpers/application_helper.iseq
+SHA1-Digest: 6uYjos+ODxbUztLNBiq1171xEX4=
+
+Name: res/drawable/alert_alert.png
+SHA1-Digest: cAR6AyNxhSULWXZzFKYObPjRwB0=
+
+Name: assets/lib/res/back_btn.wp.png
+SHA1-Digest: kaRvtirfa7mo8dnBlcZ8HiBOzbY=
+
+Name: assets/db/syncdb_java.triggers
+SHA1-Digest: jOC+MUp5uUCcrKKlpWcHEQbiDV8=
+
+Name: assets/apps/public/images/blueButton.png
+SHA1-Digest: W4IJBu27h5NUkHui0Qd9IPomV2Q=
+
+Name: res/drawable/callout.png
+SHA1-Digest: 3oPpp2lRNxuCI0Vx2ZWLtRVxz+o=
+
+Name: assets/lib/version.iseq
+SHA1-Digest: fY+ZkA0AisUjwRnjudX/l7DMbZs=
+
+Name: assets/lib/rho/rhotoolbar.iseq
+SHA1-Digest: lmjZgc8Qp/jGfg1mwNPASEBP4c4=
+
+Name: assets/apps/public/images/toolButton.png
+SHA1-Digest: /GfIxu9LA/R+T4lo4Br8+P9leQE=
+
+Name: res/layout/logview.xml
+SHA1-Digest: 9ksM4oqIga+S5a+qOg+9LYxicD0=
+
+Name: res/drawable/exit.png
+SHA1-Digest: qmst3xH2BCMGO51KjgDXwD7ZN0A=
+
+Name: res/drawable/alert_question.png
+SHA1-Digest: Os3pbcdw3tE8Ctjv4LM6cjTiAg8=
+
+Name: assets/apps/public/images/pinstripes.png
+SHA1-Digest: rJeKbR4/TjtnkwIXkVjFhKd3woc=
+
+Name: resources.arsc
+SHA1-Digest: SiyNLx/UnSutuFEokgZ6qRdaZNs=
+
+Name: assets/apps/app/UserFollows/my_followers_erb.iseq
+SHA1-Digest: dU9Here/QmtZE8nBWdNS0NXLEIE=
+
+Name: assets/apps/app/Settings/login_erb.iseq
+SHA1-Digest: mpJj1OMLYxwhJTzVe6nlXbVJ4/k=
+
+Name: assets/lib/rho/rhocontroller.iseq
+SHA1-Digest: 3XC3EMwQxlYn1XzueAIgh7aZddg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: p4SEf0KPRRcfOZHs9zUCTPyZulM=
+
+Name: assets/apps/public/css/blackberry.css
+SHA1-Digest: PTs1bhCMKIVBmTZz011749E8Vb0=
+
+Name: assets/apps/public/css/iphone.css
+SHA1-Digest: hgZxRLeSMwrsLXzHLuVP+AGUEis=
+
+Name: assets/lib/rho/rhoevent_c.iseq
+SHA1-Digest: +fjKWl2d4DBKmeDWY70J1DfpPFg=
+
+Name: assets/lib/res/blue_pushpin_small.wp.png
+SHA1-Digest: VgmuqaKDiEBCWGPRlrKhaHlc3W8=
+
+Name: assets/apps/public/css/android.css
+SHA1-Digest: GzAQdwLmY+Ks/L//B7rAp9kD7GY=
+
+Name: assets/lib/rho/rhobluetooth.iseq
+SHA1-Digest: xh25JXdRaMu/kmot568h/cfe+xY=
+
+Name: assets/apps/public/jqtouch/jqtouch.js
+SHA1-Digest: ZCNSYVcHlqydnxulJWmMTduEAPA=
+
+Name: assets/lib/rho/rhocontact.iseq
+SHA1-Digest: ZBo20h3o0PrblvEyz2DUCQc+lrs=
+
+Name: classes.dex
+SHA1-Digest: +EpNUv2qG8135mUbSJdMy8UeFb4=
+
+Name: res/drawable/icon.png
+SHA1-Digest: g7Uq1SYj8pL+rgYDj5wb5tavkeU=
+
+Name: assets/apps/app/Settings/wait_erb.iseq
+SHA1-Digest: s1G9+taG2PHbaezqtumoyFBAd4A=
+
+Name: assets/apps/public/images/android/disclosure.png
+SHA1-Digest: PMTqTMY1U2X9QS/7aBVBX3BUx/A=
+
+Name: assets/apps/public/js/wp7.js
+SHA1-Digest: 5NHst4b9t/2JLSK9w+i2vYicxck=
+
+Name: assets/lib/res/options_btn.wp.png
+SHA1-Digest: q6jtg6v0Z6jr+4uFZPZ6d0swJZ0=
+
+Name: assets/lib/rholang/rhoerror_de.iseq
+SHA1-Digest: O9xoco0Q7x25tapfBcL4uJXtRNU=
+
+Name: assets/db/syncdb.triggers
+SHA1-Digest: LKi7Ygz7vHkOH6uV46A2i+iLDXI=
+
+Name: assets/lib/date.iseq
+SHA1-Digest: PPGt8AkQt82Os6WmoZAjdSjAA7Y=
+
+Name: assets/lib/rhom/rhom_object_factory.iseq
+SHA1-Digest: /axkFjbJs23VbN199QyTirtztDU=
+
+Name: assets/lib/rhodes.iseq
+SHA1-Digest: oRV9pDKPRp1BjtSBItAAju06Ix4=
+
+Name: assets/lib/rho/render.iseq
+SHA1-Digest: 4+GpQivOdfmZ+SKDfMhjR6MU+OA=
+
+Name: assets/lib/stringio.iseq
+SHA1-Digest: xUxvnsV1rwm6UhZUdv5Idsw4I9Y=
+
+Name: assets/apps/public/images/iphone/jqtouch/selection.png
+SHA1-Digest: tqiPPLLVGUnBQGLtP+04/47v2QU=
+
+Name: assets/apps/public/jqtouch/jqtouch.css
+SHA1-Digest: ao90rzO4j4fdXOOrrF4Welu5Hvg=
+
+Name: assets/apps/public/images/iphone/jqtouch/toolbar.png
+SHA1-Digest: QOqhe2gzQPYbXudDlNtunNgMUSM=
+
+Name: lib/armeabi/librhodes.so
+SHA1-Digest: PfUm1K+cugicvQp19Qyxo3+/jyo=
+
+Name: assets/apps/app/RepoInformation/new_erb.iseq
+SHA1-Digest: /Edaa0Tat3Y1jmBdeF+5LevJsBo=
+
+Name: res/layout/camera.xml
+SHA1-Digest: VigMT54EfdSy2f7xpEclofWtVao=
+
+Name: assets/lib/date/format.iseq
+SHA1-Digest: hqW7OprOqpAh10sryuMbcw/R1sg=
+
+Name: assets/lib/rhom.iseq
+SHA1-Digest: 0k6JPS2ssDw0s4wlcTtlnkZ9ZtM=
+
+Name: assets/apps/public/css/windows_mobile.css
+SHA1-Digest: j4GNVwx2DZSxBKl1ad2kJnNIJ4c=
+
+Name: assets/apps/public/images/toolButton_new.png
+SHA1-Digest: WiN+ceHyQvgDPzghXqijt62+B6I=
+
+Name: assets/apps/app/UserRepos/wait_erb.iseq
+SHA1-Digest: EqfgfuoVR+rl5e3PSCSfff3B74Y=
+
+Name: assets/lib/rhom/rhom_model.iseq
+SHA1-Digest: rpEyyrYTOiKz3ugPI+gNIhYGJeM=
+
+Name: assets/apps/app/UserRepos/my_repos_erb.iseq
+SHA1-Digest: I167HECS0VOTICEwKDeyqN9ihk4=
+
+Name: assets/apps/public/images/iphone/jqtouch/loading.gif
+SHA1-Digest: 1k6VX9/hQanpLBlqx4iw9nf0ltY=
+
+Name: assets/apps/public/images/cancel.png
+SHA1-Digest: 6Opmi+zhw/Lq2kzD6zCRlt5TIBY=
+
+Name: assets/apps/public/images/whiteButton.png
+SHA1-Digest: K0Jc3pAsDztdjnssbQrDgbYuOTc=
+
+Name: assets/apps/public/images/iphone/jqtouch/thumb.png
+SHA1-Digest: yJX3rnHrINgcEfR7QCKOy0WBDk8=
+
+Name: assets/apps/public/images/iphone/jqtouch/toggle.png
+SHA1-Digest: n0fOaV14DeP1QGDCOHRqcwQRNT0=
+
+Name: assets/lib/rho/rhofsconnector.iseq
+SHA1-Digest: 1DKk6PrQZoPbSJjAzAXsg+MWGYM=
+
+Name: res/drawable/camera.png
+SHA1-Digest: eEZv9dRZ7N7PSm4iAr8RCyzZn04=
+
+Name: assets/hash
+SHA1-Digest: 50IqxCSW3NHypEyitcx8w+c+qd8=
+
+Name: assets/apps/app/User/new_erb.iseq
+SHA1-Digest: 08sMUUnl7zUnQExa0VrxWYLXpWM=
+
+Name: assets/lib/rhoframework.iseq
+SHA1-Digest: l7/N11gAizAhxaBXN6Im8Nbq3hk=
+
+Name: assets/lib/rational.iseq
+SHA1-Digest: eS6apcp/KCx490wguFTj6CbtE9c=
+
+Name: assets/apps/public/images/loading.gif
+SHA1-Digest: 1k6VX9/hQanpLBlqx4iw9nf0ltY=
+
+Name: assets/lib/json/pure/generator.iseq
+SHA1-Digest: LA/T2rOGoxRmO2V1wftzGmMdBDw=
+
+Name: assets/apps/public/images/android/btn_radio_off.png
+SHA1-Digest: n+bPbn8FMxbRflfPJl+jUIU5+dI=
+
+Name: assets/apps/app/UserFollows/user_follows_controller.iseq
+SHA1-Digest: RYJy8Vy9/8NMLMqUVjHmFc3gR94=
+
+Name: assets/apps/app/UserRepos/user_repos_controller.iseq
+SHA1-Digest: wHAu1X9b+D9zNYxVRdybyyxFqfk=
+
+Name: assets/apps/public/jqtouch/jqtouch-iphone.css
+SHA1-Digest: 7k5ZrZUJV03jHUuhE0QbwPlsy5k=
+
+Name: assets/apps/public/js/rhogeolocation.js
+SHA1-Digest: boAO5N2oth+Yj1zwOfE6Slv7ess=
+
+Name: assets/apps/app/Settings/controller.iseq
+SHA1-Digest: 0McqW7NT/VgXF5+vvLQ/k7lnWKw=
+
+Name: assets/apps/app/Settings/home_erb.iseq
+SHA1-Digest: dnkB481oFXYAIBCDgs+QQn+1ksM=
+
+Name: res/layout/bt_device_list.xml
+SHA1-Digest: LtN5qsz5CRKL9tAQfgj4XHcstGo=
+
+Name: assets/lib/json/pure.iseq
+SHA1-Digest: QDScBqyCeRqdee8lU4YE26yeJQk=
+
+Name: assets/lib/base64.iseq
+SHA1-Digest: 83Z9XyamkkEGY+8BIaUZq3onCuc=
+
+Name: assets/apps/public/images/listGroup.png
+SHA1-Digest: vnWs3/8tJRp0NGhLqSGDAIflorI=
+
+Name: res/drawable/back.png
+SHA1-Digest: G6mxzCtqcGNvx22heZay+uhorWE=
+
+Name: res/drawable/sync.png
+SHA1-Digest: IcNvnb4LtpFh2mk9Y4f1ea0FlMg=
+
+Name: assets/apps/app/RepoInformation/index_erb.iseq
+SHA1-Digest: P9h1M2RLuL+J1rNXF/AUcp5SuWc=
+
+Name: assets/apps/public/images/IUI_LICENSE.txt
+SHA1-Digest: Wz70ywK/5P0GVWRPrQ+0tzEdhVE=
+
+Name: assets/apps/public/images/iphone/jqtouch/pinstripes.png
+SHA1-Digest: rJeKbR4/TjtnkwIXkVjFhKd3woc=
+
+Name: assets/lib/rho/rhosupport.iseq
+SHA1-Digest: 38V8gtMJdsylovQgCoSjiAmJy7I=
+
+Name: assets/apps/app/RepoInformation/repo_information_controller.iseq
+SHA1-Digest: 9mbH1+BzrKrIPbEqNVkgMdt0pQM=
+
+Name: res/drawable/signature_ok.png
+SHA1-Digest: fG3hD8G7ZqJbwnJGeqb1Orpx0O0=
+
+Name: assets/apps/app/index_erb.iseq
+SHA1-Digest: mobFmDvTt5h4zemytIvwYF0vHh8=
+
+Name: assets/apps/app/loading.html
+SHA1-Digest: ttwo5/z107vEgDuinulwxhNTUOY=
+
+Name: assets/apps/public/images/iphone/radiobutton.png
+SHA1-Digest: iukcVV80C5g68WNsONPbNZi9I8s=
+
+Name: assets/lib/dateOrig.iseq
+SHA1-Digest: Q8ls4smFzjl3TUB25jrl2o9VARI=
+
+Name: assets/lib/rhosystem.iseq
+SHA1-Digest: O2/msOPS1k+SjRAcOYNapif1vXI=
+
+Name: assets/lib/rho/rhonativeviewmanager.iseq
+SHA1-Digest: tch52qPPqlfKacYM4oN6z96rdDA=
+
+Name: assets/lib/rho/rhoerror.iseq
+SHA1-Digest: IGuWmwjr5UgLkMadN8bgSh0vyac=
+

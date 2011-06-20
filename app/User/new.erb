@@ -1,0 +1,37 @@
+<div class="pageTitle">
+  <h1>New <%= @user.title %></h1>
+</div>
+
+<div class="toolbar">
+  <div class="leftItem backButton">
+    <a class="cancel" href="<%= url_for :action => :index %>">Cancel</a>
+  </div>
+</div>
+
+<div class="content">
+  <form method="POST" action="<%= url_for :action => :create %>">
+    <input type="hidden" name="id" value="<%= @user.object %>"/>
+    <ul>
+      
+          <li>
+            <label for="user[username]" class="fieldLabel">Username</label>
+            <input type="text" name="user[username]" <%=
+            placeholder("Username") %> />
+          </li>
+      
+          <li>
+            <label for="user[password]" class="fieldLabel">Password</label>
+            <input type="text" name="user[password]" <%=
+            placeholder("Password") %> />
+          </li>
+      
+          <li>
+            <label for="user[api_token]" class="fieldLabel">Api token</label>
+            <input type="text" name="user[api_token]" <%=
+            placeholder("Api token") %> />
+          </li>
+      
+    </ul>
+    <input type="submit" class="standardButton" value="Create"/>
+  </form>
+</div>

@@ -1,0 +1,18 @@
+<div class="pageTitle">
+  <h1>Login</h1>
+</div>
+
+
+<div class="content" >
+  <form method="POST" action="<%= url_for :action => :create %>">
+    <ul>  
+      <li>
+            <label for="user[username]" class="fieldLabel">Username</label>
+            <input type="text" name="user[username]" <%= placeholder("Username") %> />
+       </li>
+      <li>
+            <input type="submit" class="standardButton" value="Login"/>
+    </li>
+  </ul>
+</form>
+</div>

@@ -1,0 +1,33 @@
+<div class="pageTitle">
+  <h1><%= @user.username %></h1>
+</div>
+
+<div class="toolbar">
+  <div class="leftItem backButton">
+    <a href="<%= url_for :action => :index %>">Back</a>
+  </div>
+  <div class="rightItem regularButton">
+    <a href="<%= url_for :action => :edit, :id => @user.object %>">Edit</a>
+  </div>
+</div>
+
+<div class="content">
+  <ul>
+    
+        <li>
+          <div class="itemLabel">Username</div>
+          <div class="itemValue"><%= @user.username %></div>
+        </li>
+    
+        <li>
+          <div class="itemLabel">Password</div>
+          <div class="itemValue"><%= @user.password %></div>
+        </li>
+    
+        <li>
+          <div class="itemLabel">ApiToken</div>
+          <div class="itemValue"><%= @user.api_token %></div>
+        </li>
+    
+  </ul>
+</div>
